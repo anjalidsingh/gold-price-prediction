@@ -1,3 +1,7 @@
+## Colab Notebook
+
+For an interactive view of the code, graphs, and results, check out the Colab notebook: [Gold Price Prediction Colab Notebook]([https://colab.research.google.com/drive/1bNHktSwJ2VqMq9kOuDfENokZgApmLPK9?usp=sharing])
+
 # Gold Price Prediction
 
 This project aims to predict the price of gold using various economic indicators. The prediction is done using a Random Forest Regressor model.
