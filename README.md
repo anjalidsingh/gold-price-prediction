@@ -1,6 +1,7 @@
 ## Colab Notebook
 
-For an interactive view of the code, graphs, and results, check out the Colab notebook: [Gold Price Prediction Colab Notebook]([[https://colab.research.google.com/drive/1bNHktSwJ2VqMq9kOuDfENokZgApmLPK9?usp=sharing](https://colab.research.google.com/drive/1bNHktSwJ2VqMq9kOuDfENokZgApmLPK9?usp=sharing)])
+For an interactive view of the code, graphs, and results, check out the Colab notebook: [Gold Price Prediction Colab Notebook](https://colab.research.google.com/drive/1bNHktSwJ2VqMq9kOuDfENokZgApmLPK9?usp=sharing)
+
 
 # Gold Price Prediction
 
