@@ -56,6 +56,6 @@ The dataset used for this project is `gld_price_data.csv`, which contains the fo
 1. Ensure you have the required libraries installed:
    ```bash
    pip install pandas plotly scikit-learn matplotlib
--Download the dataset gld_price_data.csv and place it in the project directory.
--Run the Jupyter notebook gold_price_prediction.ipynb to train the model and visualize the results.
+2. Download the dataset gld_price_data.csv and place it in the project directory.
+3. Run the Jupyter notebook gold_price_prediction.ipynb to train the model and visualize the results.
 
